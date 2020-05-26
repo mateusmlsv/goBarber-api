@@ -1,0 +1,8 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.default = {
+    jwt: {
+        secret: '88181fb72ce6bcaea828f57b3db3df19',
+        expiresIn: '1d',
+    },
+};
